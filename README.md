@@ -51,7 +51,7 @@ The Car Configuration API is a backend service that allows users to create, retr
 4. Set up the MySQL database and configure connection settings in `src/config/database.js`.
 5. Start the server:
    ```bash
-   npm start
+   node src/app.js
    ```
 
 ### Usage
