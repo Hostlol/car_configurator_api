@@ -37,11 +37,11 @@ The Car Configuration API is a backend service that allows users to create, retr
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/car-configuration-api.git
+   git clone https://github.com/your-username/car_configuration_api.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd car-configuration-api
+   cd car_configuration_api
    ```
 3. Install dependencies:
    ```bash
