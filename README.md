@@ -14,7 +14,6 @@ The Car Configuration API is a backend service that allows users to create, retr
 - **Node.js & Express**: Fast and lightweight server framework for building RESTful APIs.
 - **MySQL**: Relational database for storing vehicle and configuration data.
 - **Swagger**: API documentation and testing interface.
-- **Docker**: Containerization for easy deployment (if applicable).
 - **Axios**: Frontend (or client-side) HTTP requests to interact with the API.
 
 ### API Endpoints
